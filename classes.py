@@ -17,3 +17,4 @@ share = sofy.profit(3)
 print(share)
 
 print ("new commit")
+print ("new push")
