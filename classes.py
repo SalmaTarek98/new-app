@@ -15,3 +15,5 @@ print(khamis.Email)
 sofy = Employee("Ahmed","Sofy",50000)
 share = sofy.profit(3)
 print(share)
+
+print ("new commit")
